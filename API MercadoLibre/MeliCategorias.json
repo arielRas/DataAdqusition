@@ -1,0 +1,2762 @@
+[
+    {
+        "id":"MLA5725",
+        "name":"Accesorios para Veh\u00edculos",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA4711",
+        "name":"Acc. para Motos y Cuatriciclos",
+        "is_subcategory":true,
+        "father_cat":"MLA5725"
+    },
+    {
+        "id":"MLA417044",
+        "name":"Accesorios N\u00e1uticos",
+        "is_subcategory":true,
+        "father_cat":"MLA5725"
+    },
+    {
+        "id":"MLA6520",
+        "name":"Accesorios de Auto y Camioneta",
+        "is_subcategory":true,
+        "father_cat":"MLA5725"
+    },
+    {
+        "id":"MLA86360",
+        "name":"Accesorios para L\u00ednea Pesada",
+        "is_subcategory":true,
+        "father_cat":"MLA5725"
+    },
+    {
+        "id":"MLA3381",
+        "name":"Audio para Veh\u00edculos",
+        "is_subcategory":true,
+        "father_cat":"MLA5725"
+    },
+    {
+        "id":"MLA4610",
+        "name":"GNC",
+        "is_subcategory":true,
+        "father_cat":"MLA5725"
+    },
+    {
+        "id":"MLA2227",
+        "name":"Herramientas para Veh\u00edculos",
+        "is_subcategory":true,
+        "father_cat":"MLA5725"
+    },
+    {
+        "id":"MLA86838",
+        "name":"Limpieza de Veh\u00edculos",
+        "is_subcategory":true,
+        "father_cat":"MLA5725"
+    },
+    {
+        "id":"MLA6537",
+        "name":"Llantas y Accesorios",
+        "is_subcategory":true,
+        "father_cat":"MLA5725"
+    },
+    {
+        "id":"MLA456111",
+        "name":"Lubricantes y Fluidos",
+        "is_subcategory":true,
+        "father_cat":"MLA5725"
+    },
+    {
+        "id":"MLA455863",
+        "name":"Motos",
+        "is_subcategory":true,
+        "father_cat":"MLA5725"
+    },
+    {
+        "id":"MLA8531",
+        "name":"Navegadores GPS para Veh\u00edculos",
+        "is_subcategory":true,
+        "father_cat":"MLA5725"
+    },
+    {
+        "id":"MLA400928",
+        "name":"Neum\u00e1ticos",
+        "is_subcategory":true,
+        "father_cat":"MLA5725"
+    },
+    {
+        "id":"MLA402999",
+        "name":"Performance",
+        "is_subcategory":true,
+        "father_cat":"MLA5725"
+    },
+    {
+        "id":"MLA1747",
+        "name":"Repuestos Autos y Camionetas",
+        "is_subcategory":true,
+        "father_cat":"MLA5725"
+    },
+    {
+        "id":"MLA1771",
+        "name":"Repuestos Motos y Cuatriciclos",
+        "is_subcategory":true,
+        "father_cat":"MLA5725"
+    },
+    {
+        "id":"MLA456046",
+        "name":"Repuestos N\u00e1uticos",
+        "is_subcategory":true,
+        "father_cat":"MLA5725"
+    },
+    {
+        "id":"MLA419936",
+        "name":"Repuestos de L\u00ednea Pesada",
+        "is_subcategory":true,
+        "father_cat":"MLA5725"
+    },
+    {
+        "id":"MLA86080",
+        "name":"Seguridad Vehicular",
+        "is_subcategory":true,
+        "father_cat":"MLA5725"
+    },
+    {
+        "id":"MLA377674",
+        "name":"Servicio Programado",
+        "is_subcategory":true,
+        "father_cat":"MLA5725"
+    },
+    {
+        "id":"MLA455216",
+        "name":"Tags para el Pago de Peajes",
+        "is_subcategory":true,
+        "father_cat":"MLA5725"
+    },
+    {
+        "id":"MLA4589",
+        "name":"Tuning",
+        "is_subcategory":true,
+        "father_cat":"MLA5725"
+    },
+    {
+        "id":"MLA6177",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA5725"
+    },
+    {
+        "id":"MLA1512",
+        "name":"Agro",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA446791",
+        "name":"Agricultura de Precisi\u00f3n",
+        "is_subcategory":true,
+        "father_cat":"MLA1512"
+    },
+    {
+        "id":"MLA456820",
+        "name":"Almacenaje",
+        "is_subcategory":true,
+        "father_cat":"MLA1512"
+    },
+    {
+        "id":"MLA442346",
+        "name":"Animales",
+        "is_subcategory":true,
+        "father_cat":"MLA1512"
+    },
+    {
+        "id":"MLA456826",
+        "name":"Apicultura",
+        "is_subcategory":true,
+        "father_cat":"MLA1512"
+    },
+    {
+        "id":"MLA456833",
+        "name":"Energia Renovable",
+        "is_subcategory":true,
+        "father_cat":"MLA1512"
+    },
+    {
+        "id":"MLA456932",
+        "name":"Fertilizantes",
+        "is_subcategory":true,
+        "father_cat":"MLA1512"
+    },
+    {
+        "id":"MLA456927",
+        "name":"Herramientas de Trabajo",
+        "is_subcategory":true,
+        "father_cat":"MLA1512"
+    },
+    {
+        "id":"MLA454448",
+        "name":"Infraestructura Rural",
+        "is_subcategory":true,
+        "father_cat":"MLA1512"
+    },
+    {
+        "id":"MLA442343",
+        "name":"Insumos Agr\u00edcolas",
+        "is_subcategory":true,
+        "father_cat":"MLA1512"
+    },
+    {
+        "id":"MLA407816",
+        "name":"Insumos Ganaderos",
+        "is_subcategory":true,
+        "father_cat":"MLA1512"
+    },
+    {
+        "id":"MLA456817",
+        "name":"Lubricantes y Fluidos",
+        "is_subcategory":true,
+        "father_cat":"MLA1512"
+    },
+    {
+        "id":"MLA417282",
+        "name":"Maquinaria Agr\u00edcola",
+        "is_subcategory":true,
+        "father_cat":"MLA1512"
+    },
+    {
+        "id":"MLA457084",
+        "name":"Maquinaria Forrajera",
+        "is_subcategory":true,
+        "father_cat":"MLA1512"
+    },
+    {
+        "id":"MLA457052",
+        "name":"Producci\u00f3n Animal",
+        "is_subcategory":true,
+        "father_cat":"MLA1512"
+    },
+    {
+        "id":"MLA456795",
+        "name":"Protecci\u00f3n de Cultivos",
+        "is_subcategory":true,
+        "father_cat":"MLA1512"
+    },
+    {
+        "id":"MLA442351",
+        "name":"Repuestos Maquinaria Agr\u00edcola",
+        "is_subcategory":true,
+        "father_cat":"MLA1512"
+    },
+    {
+        "id":"MLA457264",
+        "name":"Riego",
+        "is_subcategory":true,
+        "father_cat":"MLA1512"
+    },
+    {
+        "id":"MLA456964",
+        "name":"Semillas",
+        "is_subcategory":true,
+        "father_cat":"MLA1512"
+    },
+    {
+        "id":"MLA404085",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA1512"
+    },
+    {
+        "id":"MLA1403",
+        "name":"Alimentos y Bebidas",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA1423",
+        "name":"Almac\u00e9n",
+        "is_subcategory":true,
+        "father_cat":"MLA1403"
+    },
+    {
+        "id":"MLA178700",
+        "name":"Bebidas",
+        "is_subcategory":true,
+        "father_cat":"MLA1403"
+    },
+    {
+        "id":"MLA410883",
+        "name":"Comida Preparada",
+        "is_subcategory":true,
+        "father_cat":"MLA1403"
+    },
+    {
+        "id":"MLA455292",
+        "name":"Congelados",
+        "is_subcategory":true,
+        "father_cat":"MLA1403"
+    },
+    {
+        "id":"MLA194324",
+        "name":"Frescos",
+        "is_subcategory":true,
+        "father_cat":"MLA1403"
+    },
+    {
+        "id":"MLA455505",
+        "name":"K\u00e9fir",
+        "is_subcategory":true,
+        "father_cat":"MLA1403"
+    },
+    {
+        "id":"MLA1417",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA1403"
+    },
+    {
+        "id":"MLA1071",
+        "name":"Animales y Mascotas",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA1100",
+        "name":"Aves",
+        "is_subcategory":true,
+        "father_cat":"MLA1071"
+    },
+    {
+        "id":"MLA1117",
+        "name":"Caballos",
+        "is_subcategory":true,
+        "father_cat":"MLA1071"
+    },
+    {
+        "id":"MLA6573",
+        "name":"Conejos",
+        "is_subcategory":true,
+        "father_cat":"MLA1071"
+    },
+    {
+        "id":"MLA370459",
+        "name":"Correas para Mascotas",
+        "is_subcategory":true,
+        "father_cat":"MLA1071"
+    },
+    {
+        "id":"MLA1081",
+        "name":"Gatos",
+        "is_subcategory":true,
+        "father_cat":"MLA1071"
+    },
+    {
+        "id":"MLA429311",
+        "name":"Insectos",
+        "is_subcategory":true,
+        "father_cat":"MLA1071"
+    },
+    {
+        "id":"MLA456660",
+        "name":"Jaulas para Mascotas",
+        "is_subcategory":true,
+        "father_cat":"MLA1071"
+    },
+    {
+        "id":"MLA1091",
+        "name":"Peces",
+        "is_subcategory":true,
+        "father_cat":"MLA1071"
+    },
+    {
+        "id":"MLA1072",
+        "name":"Perros",
+        "is_subcategory":true,
+        "father_cat":"MLA1071"
+    },
+    {
+        "id":"MLA1111",
+        "name":"Reptiles y Anfibios",
+        "is_subcategory":true,
+        "father_cat":"MLA1071"
+    },
+    {
+        "id":"MLA1105",
+        "name":"Roedores",
+        "is_subcategory":true,
+        "father_cat":"MLA1071"
+    },
+    {
+        "id":"MLA1126",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA1071"
+    },
+    {
+        "id":"MLA1367",
+        "name":"Antig\u00fcedades y Colecciones",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA436789",
+        "name":"Antig\u00fcedades",
+        "is_subcategory":true,
+        "father_cat":"MLA1367"
+    },
+    {
+        "id":"MLA393901",
+        "name":"Banderas",
+        "is_subcategory":true,
+        "father_cat":"MLA1367"
+    },
+    {
+        "id":"MLA31770",
+        "name":"Coleccionables de Deportes",
+        "is_subcategory":true,
+        "father_cat":"MLA1367"
+    },
+    {
+        "id":"MLA2662",
+        "name":"Esculturas",
+        "is_subcategory":true,
+        "father_cat":"MLA1367"
+    },
+    {
+        "id":"MLA1861",
+        "name":"Filatelia",
+        "is_subcategory":true,
+        "father_cat":"MLA1367"
+    },
+    {
+        "id":"MLA1805",
+        "name":"Militar\u00eda y Afines",
+        "is_subcategory":true,
+        "father_cat":"MLA1367"
+    },
+    {
+        "id":"MLA1806",
+        "name":"Monedas y Billetes",
+        "is_subcategory":true,
+        "father_cat":"MLA1367"
+    },
+    {
+        "id":"MLA3475",
+        "name":"Posters",
+        "is_subcategory":true,
+        "father_cat":"MLA1367"
+    },
+    {
+        "id":"MLA1383",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA1367"
+    },
+    {
+        "id":"MLA1368",
+        "name":"Arte, Librer\u00eda y Mercer\u00eda",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA34263",
+        "name":"Arte y Manualidades",
+        "is_subcategory":true,
+        "father_cat":"MLA1368"
+    },
+    {
+        "id":"MLA381266",
+        "name":"Espejos Venecitas",
+        "is_subcategory":true,
+        "father_cat":"MLA1368"
+    },
+    {
+        "id":"MLA5982",
+        "name":"Librer\u00eda",
+        "is_subcategory":true,
+        "father_cat":"MLA1368"
+    },
+    {
+        "id":"MLA10934",
+        "name":"Mercer\u00eda",
+        "is_subcategory":true,
+        "father_cat":"MLA1368"
+    },
+    {
+        "id":"MLA34294",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA1368"
+    },
+    {
+        "id":"MLA1743",
+        "name":"Autos, Motos y Otros",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA93412",
+        "name":"Autos Chocados y Averiados",
+        "is_subcategory":true,
+        "father_cat":"MLA1743"
+    },
+    {
+        "id":"MLA1745",
+        "name":"Autos de Colecci\u00f3n",
+        "is_subcategory":true,
+        "father_cat":"MLA1743"
+    },
+    {
+        "id":"MLA1744",
+        "name":"Autos y Camionetas",
+        "is_subcategory":true,
+        "father_cat":"MLA1743"
+    },
+    {
+        "id":"MLA58254",
+        "name":"Camiones",
+        "is_subcategory":true,
+        "father_cat":"MLA1743"
+    },
+    {
+        "id":"MLA51547",
+        "name":"Colectivos",
+        "is_subcategory":true,
+        "father_cat":"MLA1743"
+    },
+    {
+        "id":"MLA7312",
+        "name":"Maquinaria Agr\u00edcola",
+        "is_subcategory":true,
+        "father_cat":"MLA1743"
+    },
+    {
+        "id":"MLA405183",
+        "name":"Maquinaria Vial",
+        "is_subcategory":true,
+        "father_cat":"MLA1743"
+    },
+    {
+        "id":"MLA80579",
+        "name":"Motorhomes",
+        "is_subcategory":true,
+        "father_cat":"MLA1743"
+    },
+    {
+        "id":"MLA1763",
+        "name":"Motos",
+        "is_subcategory":true,
+        "father_cat":"MLA1743"
+    },
+    {
+        "id":"MLA1785",
+        "name":"N\u00e1utica",
+        "is_subcategory":true,
+        "father_cat":"MLA1743"
+    },
+    {
+        "id":"MLA1907",
+        "name":"Otros Veh\u00edculos",
+        "is_subcategory":true,
+        "father_cat":"MLA1743"
+    },
+    {
+        "id":"MLA1784",
+        "name":"Planes de Ahorro",
+        "is_subcategory":true,
+        "father_cat":"MLA1743"
+    },
+    {
+        "id":"MLA93430",
+        "name":"Semirremolques",
+        "is_subcategory":true,
+        "father_cat":"MLA1743"
+    },
+    {
+        "id":"MLA1384",
+        "name":"Beb\u00e9s",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA8814",
+        "name":"Andadores y Veh\u00edculos de Beb\u00e9s",
+        "is_subcategory":true,
+        "father_cat":"MLA1384"
+    },
+    {
+        "id":"MLA5702",
+        "name":"Art\u00edculos de Beb\u00e9s para Ba\u00f1o",
+        "is_subcategory":true,
+        "father_cat":"MLA1384"
+    },
+    {
+        "id":"MLA417864",
+        "name":"Art\u00edculos de Maternidad",
+        "is_subcategory":true,
+        "father_cat":"MLA1384"
+    },
+    {
+        "id":"MLA417853",
+        "name":"Chupetes y Mordillos",
+        "is_subcategory":true,
+        "father_cat":"MLA1384"
+    },
+    {
+        "id":"MLA417851",
+        "name":"Comida para Beb\u00e9s",
+        "is_subcategory":true,
+        "father_cat":"MLA1384"
+    },
+    {
+        "id":"MLA8322",
+        "name":"Corralitos",
+        "is_subcategory":true,
+        "father_cat":"MLA1384"
+    },
+    {
+        "id":"MLA5362",
+        "name":"Cuarto del Beb\u00e9",
+        "is_subcategory":true,
+        "father_cat":"MLA1384"
+    },
+    {
+        "id":"MLA409456",
+        "name":"Higiene y Cuidado del Beb\u00e9",
+        "is_subcategory":true,
+        "father_cat":"MLA1384"
+    },
+    {
+        "id":"MLA1392",
+        "name":"Juegos y Juguetes para Beb\u00e9s",
+        "is_subcategory":true,
+        "father_cat":"MLA1384"
+    },
+    {
+        "id":"MLA5360",
+        "name":"Lactancia y Alimentaci\u00f3n",
+        "is_subcategory":true,
+        "father_cat":"MLA1384"
+    },
+    {
+        "id":"MLA418189",
+        "name":"Paseo del Beb\u00e9",
+        "is_subcategory":true,
+        "father_cat":"MLA1384"
+    },
+    {
+        "id":"MLA1396",
+        "name":"Ropa y Calzado para Beb\u00e9s",
+        "is_subcategory":true,
+        "father_cat":"MLA1384"
+    },
+    {
+        "id":"MLA417887",
+        "name":"Salud del Beb\u00e9",
+        "is_subcategory":true,
+        "father_cat":"MLA1384"
+    },
+    {
+        "id":"MLA1390",
+        "name":"Seguridad para Beb\u00e9s",
+        "is_subcategory":true,
+        "father_cat":"MLA1384"
+    },
+    {
+        "id":"MLA1889",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA1384"
+    },
+    {
+        "id":"MLA1246",
+        "name":"Belleza y Cuidado Personal",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA455174",
+        "name":"Artefactos para el Cabello",
+        "is_subcategory":true,
+        "father_cat":"MLA1246"
+    },
+    {
+        "id":"MLA431642",
+        "name":"Art\u00edculos de Peluquer\u00eda",
+        "is_subcategory":true,
+        "father_cat":"MLA1246"
+    },
+    {
+        "id":"MLA417575",
+        "name":"Barber\u00eda",
+        "is_subcategory":true,
+        "father_cat":"MLA1246"
+    },
+    {
+        "id":"MLA1253",
+        "name":"Cuidado de la Piel",
+        "is_subcategory":true,
+        "father_cat":"MLA1246"
+    },
+    {
+        "id":"MLA1263",
+        "name":"Cuidado del Cabello",
+        "is_subcategory":true,
+        "father_cat":"MLA1246"
+    },
+    {
+        "id":"MLA43673",
+        "name":"Depilaci\u00f3n",
+        "is_subcategory":true,
+        "father_cat":"MLA1246"
+    },
+    {
+        "id":"MLA431646",
+        "name":"Farmacia",
+        "is_subcategory":true,
+        "father_cat":"MLA1246"
+    },
+    {
+        "id":"MLA393366",
+        "name":"Higiene Personal",
+        "is_subcategory":true,
+        "father_cat":"MLA1246"
+    },
+    {
+        "id":"MLA29884",
+        "name":"Manicur\u00eda y Pedicur\u00eda",
+        "is_subcategory":true,
+        "father_cat":"MLA1246"
+    },
+    {
+        "id":"MLA1248",
+        "name":"Maquillaje",
+        "is_subcategory":true,
+        "father_cat":"MLA1246"
+    },
+    {
+        "id":"MLA1271",
+        "name":"Perfumes",
+        "is_subcategory":true,
+        "father_cat":"MLA1246"
+    },
+    {
+        "id":"MLA417770",
+        "name":"Tratamientos de Belleza",
+        "is_subcategory":true,
+        "father_cat":"MLA1246"
+    },
+    {
+        "id":"MLA1275",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA1246"
+    },
+    {
+        "id":"MLA1039",
+        "name":"C\u00e1maras y Accesorios",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA1049",
+        "name":"Accesorios para C\u00e1maras",
+        "is_subcategory":true,
+        "father_cat":"MLA1039"
+    },
+    {
+        "id":"MLA5849",
+        "name":"Cables",
+        "is_subcategory":true,
+        "father_cat":"MLA1039"
+    },
+    {
+        "id":"MLA430361",
+        "name":"C\u00e1maras",
+        "is_subcategory":true,
+        "father_cat":"MLA1039"
+    },
+    {
+        "id":"MLA430403",
+        "name":"Drones y Accesorios",
+        "is_subcategory":true,
+        "father_cat":"MLA1039"
+    },
+    {
+        "id":"MLA392132",
+        "name":"Filmadoras y C\u00e1maras de Acci\u00f3n",
+        "is_subcategory":true,
+        "father_cat":"MLA1039"
+    },
+    {
+        "id":"MLA4708",
+        "name":"Instrumentos \u00d3pticos",
+        "is_subcategory":true,
+        "father_cat":"MLA1039"
+    },
+    {
+        "id":"MLA59376",
+        "name":"Lentes y Filtros",
+        "is_subcategory":true,
+        "father_cat":"MLA1039"
+    },
+    {
+        "id":"MLA430989",
+        "name":"Repuestos para C\u00e1maras",
+        "is_subcategory":true,
+        "father_cat":"MLA1039"
+    },
+    {
+        "id":"MLA10372",
+        "name":"Revelado y Laboratorio",
+        "is_subcategory":true,
+        "father_cat":"MLA1039"
+    },
+    {
+        "id":"MLA9808",
+        "name":"\u00c1lbumes y Portarretratos",
+        "is_subcategory":true,
+        "father_cat":"MLA1039"
+    },
+    {
+        "id":"MLA1914",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA1039"
+    },
+    {
+        "id":"MLA1051",
+        "name":"Celulares y Tel\u00e9fonos",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA3502",
+        "name":"Accesorios para Celulares",
+        "is_subcategory":true,
+        "father_cat":"MLA1051"
+    },
+    {
+        "id":"MLA1055",
+        "name":"Celulares y Smartphones",
+        "is_subcategory":true,
+        "father_cat":"MLA1051"
+    },
+    {
+        "id":"MLA1058",
+        "name":"Handies y Radiofrecuencia",
+        "is_subcategory":true,
+        "father_cat":"MLA1051"
+    },
+    {
+        "id":"MLA401278",
+        "name":"Lentes de Realidad Virtual",
+        "is_subcategory":true,
+        "father_cat":"MLA1051"
+    },
+    {
+        "id":"MLA3813",
+        "name":"Repuestos de Celulares",
+        "is_subcategory":true,
+        "father_cat":"MLA1051"
+    },
+    {
+        "id":"MLA417704",
+        "name":"Smartwatches y Accesorios",
+        "is_subcategory":true,
+        "father_cat":"MLA1051"
+    },
+    {
+        "id":"MLA10616",
+        "name":"Tarifadores y Cabinas",
+        "is_subcategory":true,
+        "father_cat":"MLA1051"
+    },
+    {
+        "id":"MLA1053",
+        "name":"Telefon\u00eda Fija e Inal\u00e1mbrica",
+        "is_subcategory":true,
+        "father_cat":"MLA1051"
+    },
+    {
+        "id":"MLA5237",
+        "name":"Telefon\u00eda IP",
+        "is_subcategory":true,
+        "father_cat":"MLA1051"
+    },
+    {
+        "id":"MLA1915",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA1051"
+    },
+    {
+        "id":"MLA1648",
+        "name":"Computaci\u00f3n",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA416199",
+        "name":"Accesorios de Antiest\u00e1tica",
+        "is_subcategory":true,
+        "father_cat":"MLA1648"
+    },
+    {
+        "id":"MLA447778",
+        "name":"Accesorios para PC Gaming",
+        "is_subcategory":true,
+        "father_cat":"MLA1648"
+    },
+    {
+        "id":"MLA430598",
+        "name":"Almacenamiento",
+        "is_subcategory":true,
+        "father_cat":"MLA1648"
+    },
+    {
+        "id":"MLA430918",
+        "name":"Cables y Hubs USB",
+        "is_subcategory":true,
+        "father_cat":"MLA1648"
+    },
+    {
+        "id":"MLA3794",
+        "name":"Componentes de PC",
+        "is_subcategory":true,
+        "father_cat":"MLA1648"
+    },
+    {
+        "id":"MLA1700",
+        "name":"Conectividad y Redes",
+        "is_subcategory":true,
+        "father_cat":"MLA1648"
+    },
+    {
+        "id":"MLA1718",
+        "name":"Estabilizadores y UPS",
+        "is_subcategory":true,
+        "father_cat":"MLA1648"
+    },
+    {
+        "id":"MLA2141",
+        "name":"Impresi\u00f3n",
+        "is_subcategory":true,
+        "father_cat":"MLA1648"
+    },
+    {
+        "id":"MLA1660",
+        "name":"Lectores y Scanners",
+        "is_subcategory":true,
+        "father_cat":"MLA1648"
+    },
+    {
+        "id":"MLA36845",
+        "name":"Limpieza y Cuidado de PCs",
+        "is_subcategory":true,
+        "father_cat":"MLA1648"
+    },
+    {
+        "id":"MLA1656",
+        "name":"Monitores y Accesorios",
+        "is_subcategory":true,
+        "father_cat":"MLA1648"
+    },
+    {
+        "id":"MLA430687",
+        "name":"Notebooks y Accesorios",
+        "is_subcategory":true,
+        "father_cat":"MLA1648"
+    },
+    {
+        "id":"MLA430637",
+        "name":"PC de Escritorio",
+        "is_subcategory":true,
+        "father_cat":"MLA1648"
+    },
+    {
+        "id":"MLA1651",
+        "name":"Palms y Handhelds",
+        "is_subcategory":true,
+        "father_cat":"MLA1648"
+    },
+    {
+        "id":"MLA454379",
+        "name":"Perif\u00e9ricos de PC",
+        "is_subcategory":true,
+        "father_cat":"MLA1648"
+    },
+    {
+        "id":"MLA5017",
+        "name":"Proyectores y Pantallas",
+        "is_subcategory":true,
+        "father_cat":"MLA1648"
+    },
+    {
+        "id":"MLA1723",
+        "name":"Software",
+        "is_subcategory":true,
+        "father_cat":"MLA1648"
+    },
+    {
+        "id":"MLA400950",
+        "name":"Tablets y Accesorios",
+        "is_subcategory":true,
+        "father_cat":"MLA1648"
+    },
+    {
+        "id":"MLA1912",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA1648"
+    },
+    {
+        "id":"MLA1144",
+        "name":"Consolas y Videojuegos",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA438578",
+        "name":"Accesorios para Consolas",
+        "is_subcategory":true,
+        "father_cat":"MLA1144"
+    },
+    {
+        "id":"MLA439527",
+        "name":"Accesorios para PC Gaming",
+        "is_subcategory":true,
+        "father_cat":"MLA1144"
+    },
+    {
+        "id":"MLA438566",
+        "name":"Consolas",
+        "is_subcategory":true,
+        "father_cat":"MLA1144"
+    },
+    {
+        "id":"MLA8232",
+        "name":"Flippers y Arcade",
+        "is_subcategory":true,
+        "father_cat":"MLA1144"
+    },
+    {
+        "id":"MLA438579",
+        "name":"Repuestos para Consolas",
+        "is_subcategory":true,
+        "father_cat":"MLA1144"
+    },
+    {
+        "id":"MLA373840",
+        "name":"Videojuegos",
+        "is_subcategory":true,
+        "father_cat":"MLA1144"
+    },
+    {
+        "id":"MLA438759",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA1144"
+    },
+    {
+        "id":"MLA1500",
+        "name":"Construcci\u00f3n",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA30088",
+        "name":"Aberturas",
+        "is_subcategory":true,
+        "father_cat":"MLA1500"
+    },
+    {
+        "id":"MLA455443",
+        "name":"Accesorios de Construcci\u00f3n",
+        "is_subcategory":true,
+        "father_cat":"MLA1500"
+    },
+    {
+        "id":"MLA411920",
+        "name":"Ba\u00f1os y Sanitarios",
+        "is_subcategory":true,
+        "father_cat":"MLA1500"
+    },
+    {
+        "id":"MLA2467",
+        "name":"Electricidad",
+        "is_subcategory":true,
+        "father_cat":"MLA1500"
+    },
+    {
+        "id":"MLA1502",
+        "name":"Maquinarias para Construcci\u00f3n",
+        "is_subcategory":true,
+        "father_cat":"MLA1500"
+    },
+    {
+        "id":"MLA403697",
+        "name":"Materiales de Obra",
+        "is_subcategory":true,
+        "father_cat":"MLA1500"
+    },
+    {
+        "id":"MLA411938",
+        "name":"Mobiliario para Cocinas",
+        "is_subcategory":true,
+        "father_cat":"MLA1500"
+    },
+    {
+        "id":"MLA403700",
+        "name":"Pinturer\u00eda",
+        "is_subcategory":true,
+        "father_cat":"MLA1500"
+    },
+    {
+        "id":"MLA14548",
+        "name":"Pisos y Revestimientos",
+        "is_subcategory":true,
+        "father_cat":"MLA1500"
+    },
+    {
+        "id":"MLA435273",
+        "name":"Plomer\u00eda",
+        "is_subcategory":true,
+        "father_cat":"MLA1500"
+    },
+    {
+        "id":"MLA1503",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA1500"
+    },
+    {
+        "id":"MLA1276",
+        "name":"Deportes y Fitness",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA2480",
+        "name":"Artes Marciales y Boxeo",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA1279",
+        "name":"Buceo",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA416831",
+        "name":"B\u00e1dminton",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA1309",
+        "name":"B\u00e1squet",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA1362",
+        "name":"Camping, Caza y Pesca",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA438233",
+        "name":"Canoas, Kayaks e Inflables",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA1292",
+        "name":"Ciclismo",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA1349",
+        "name":"Equitaci\u00f3n y Polo",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA417504",
+        "name":"Esgrima",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA1297",
+        "name":"Esqui y Snowboard",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA1338",
+        "name":"Fitness y Musculaci\u00f3n",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA1285",
+        "name":"F\u00fatbol",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA1302",
+        "name":"F\u00fatbol Americano",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA1342",
+        "name":"Golf",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA37856",
+        "name":"Handball",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA3732",
+        "name":"Hockey",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA4697",
+        "name":"Juegos de Sal\u00f3n",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA4682",
+        "name":"Kitesurf",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA410723",
+        "name":"Monopatines y Scooters",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA47786",
+        "name":"Monta\u00f1ismo y Trekking",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA1278",
+        "name":"Nataci\u00f3n",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA4218",
+        "name":"Paintball",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA432691",
+        "name":"Parapente",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA1295",
+        "name":"Pat\u00edn y Skateboard",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA8959",
+        "name":"Pilates y Yoga",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA3723",
+        "name":"Puls\u00f3metros y Cron\u00f3metros",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA417397",
+        "name":"Ropa Deportiva",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA3731",
+        "name":"Rugby",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA417742",
+        "name":"Slackline",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA18369",
+        "name":"Softball y Beisbol",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA438178",
+        "name":"Suplementos y Shakers",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA1281",
+        "name":"Surf y Bodyboard",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA1322",
+        "name":"Tenis, Padel y Squash ",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA440904",
+        "name":"Tiro Deportivo",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA1333",
+        "name":"Voley",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA1978",
+        "name":"Wakeboard y Esqui Acu\u00e1tico",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA1282",
+        "name":"Windsurf",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA3724",
+        "name":"Zapatillas",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA1358",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA1276"
+    },
+    {
+        "id":"MLA5726",
+        "name":"Electrodom\u00e9sticos y Aires Ac.",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA6355",
+        "name":"Artefactos de Cuidado Personal",
+        "is_subcategory":true,
+        "father_cat":"MLA5726"
+    },
+    {
+        "id":"MLA385177",
+        "name":"Climatizaci\u00f3n",
+        "is_subcategory":true,
+        "father_cat":"MLA5726"
+    },
+    {
+        "id":"MLA1618",
+        "name":"Cocci\u00f3n",
+        "is_subcategory":true,
+        "father_cat":"MLA5726"
+    },
+    {
+        "id":"MLA117258",
+        "name":"Dispensadores y Purificadores",
+        "is_subcategory":true,
+        "father_cat":"MLA5726"
+    },
+    {
+        "id":"MLA438282",
+        "name":"Lavado",
+        "is_subcategory":true,
+        "father_cat":"MLA5726"
+    },
+    {
+        "id":"MLA438284",
+        "name":"Peque\u00f1os Electrodom\u00e9sticos",
+        "is_subcategory":true,
+        "father_cat":"MLA5726"
+    },
+    {
+        "id":"MLA1576",
+        "name":"Refrigeraci\u00f3n",
+        "is_subcategory":true,
+        "father_cat":"MLA5726"
+    },
+    {
+        "id":"MLA5977",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA5726"
+    },
+    {
+        "id":"MLA1000",
+        "name":"Electr\u00f3nica, Audio y Video",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA3690",
+        "name":"Accesorios para Audio y Video",
+        "is_subcategory":true,
+        "father_cat":"MLA1000"
+    },
+    {
+        "id":"MLA431414",
+        "name":"Accesorios para TV",
+        "is_subcategory":true,
+        "father_cat":"MLA1000"
+    },
+    {
+        "id":"MLA409810",
+        "name":"Audio",
+        "is_subcategory":true,
+        "father_cat":"MLA1000"
+    },
+    {
+        "id":"MLA5054",
+        "name":"Cables",
+        "is_subcategory":true,
+        "father_cat":"MLA1000"
+    },
+    {
+        "id":"MLA11830",
+        "name":"Componentes Electr\u00f3nicos",
+        "is_subcategory":true,
+        "father_cat":"MLA1000"
+    },
+    {
+        "id":"MLA4632",
+        "name":"Controles Remotos",
+        "is_subcategory":true,
+        "father_cat":"MLA1000"
+    },
+    {
+        "id":"MLA352294",
+        "name":"Drones y Accesorios",
+        "is_subcategory":true,
+        "father_cat":"MLA1000"
+    },
+    {
+        "id":"MLA58775",
+        "name":"Fundas y Bolsos",
+        "is_subcategory":true,
+        "father_cat":"MLA1000"
+    },
+    {
+        "id":"MLA352001",
+        "name":"Media Streaming",
+        "is_subcategory":true,
+        "father_cat":"MLA1000"
+    },
+    {
+        "id":"MLA4641",
+        "name":"Pilas y Cargadores",
+        "is_subcategory":true,
+        "father_cat":"MLA1000"
+    },
+    {
+        "id":"MLA4800",
+        "name":"Proyectores y Pantallas",
+        "is_subcategory":true,
+        "father_cat":"MLA1000"
+    },
+    {
+        "id":"MLA322074",
+        "name":"Repuestos para TV",
+        "is_subcategory":true,
+        "father_cat":"MLA1000"
+    },
+    {
+        "id":"MLA1002",
+        "name":"Televisores",
+        "is_subcategory":true,
+        "father_cat":"MLA1000"
+    },
+    {
+        "id":"MLA1015",
+        "name":"Video",
+        "is_subcategory":true,
+        "father_cat":"MLA1000"
+    },
+    {
+        "id":"MLA1070",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA1000"
+    },
+    {
+        "id":"MLA2547",
+        "name":"Entradas para Eventos",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA10512",
+        "name":"Entradas de Colecci\u00f3n",
+        "is_subcategory":true,
+        "father_cat":"MLA2547"
+    },
+    {
+        "id":"MLA10434",
+        "name":"Eventos Deportivos",
+        "is_subcategory":true,
+        "father_cat":"MLA2547"
+    },
+    {
+        "id":"MLA454714",
+        "name":"Eventos a Beneficio",
+        "is_subcategory":true,
+        "father_cat":"MLA2547"
+    },
+    {
+        "id":"MLA407872",
+        "name":"Exposiciones",
+        "is_subcategory":true,
+        "father_cat":"MLA2547"
+    },
+    {
+        "id":"MLA10513",
+        "name":"Otras Entradas",
+        "is_subcategory":true,
+        "father_cat":"MLA2547"
+    },
+    {
+        "id":"MLA10405",
+        "name":"Recitales",
+        "is_subcategory":true,
+        "father_cat":"MLA2547"
+    },
+    {
+        "id":"MLA10451",
+        "name":"Teatro",
+        "is_subcategory":true,
+        "father_cat":"MLA2547"
+    },
+    {
+        "id":"MLA407134",
+        "name":"Herramientas",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA5227",
+        "name":"Accesorios para Herramientas",
+        "is_subcategory":true,
+        "father_cat":"MLA407134"
+    },
+    {
+        "id":"MLA372059",
+        "name":"Cajas y Organizadores",
+        "is_subcategory":true,
+        "father_cat":"MLA407134"
+    },
+    {
+        "id":"MLA5228",
+        "name":"Herramientas El\u00e9ctricas",
+        "is_subcategory":true,
+        "father_cat":"MLA407134"
+    },
+    {
+        "id":"MLA5224",
+        "name":"Herramientas Industriales",
+        "is_subcategory":true,
+        "father_cat":"MLA407134"
+    },
+    {
+        "id":"MLA5235",
+        "name":"Herramientas Manuales",
+        "is_subcategory":true,
+        "father_cat":"MLA407134"
+    },
+    {
+        "id":"MLA437789",
+        "name":"Herramientas Neum\u00e1ticas",
+        "is_subcategory":true,
+        "father_cat":"MLA407134"
+    },
+    {
+        "id":"MLA411877",
+        "name":"Herramientas para Jard\u00edn",
+        "is_subcategory":true,
+        "father_cat":"MLA407134"
+    },
+    {
+        "id":"MLA5976",
+        "name":"Testers y Equipos de Medici\u00f3n",
+        "is_subcategory":true,
+        "father_cat":"MLA407134"
+    },
+    {
+        "id":"MLA5236",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA407134"
+    },
+    {
+        "id":"MLA1574",
+        "name":"Hogar, Muebles y Jard\u00edn",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA1631",
+        "name":"Adornos y Decoraci\u00f3n del Hogar",
+        "is_subcategory":true,
+        "father_cat":"MLA1574"
+    },
+    {
+        "id":"MLA1592",
+        "name":"Bazar y Cocina",
+        "is_subcategory":true,
+        "father_cat":"MLA1574"
+    },
+    {
+        "id":"MLA1613",
+        "name":"Ba\u00f1os",
+        "is_subcategory":true,
+        "father_cat":"MLA1574"
+    },
+    {
+        "id":"MLA1608",
+        "name":"Camas, Colchones y Accesorios",
+        "is_subcategory":true,
+        "father_cat":"MLA1574"
+    },
+    {
+        "id":"MLA436069",
+        "name":"Cuidado del Hogar y Lavander\u00eda",
+        "is_subcategory":true,
+        "father_cat":"MLA1574"
+    },
+    {
+        "id":"MLA1582",
+        "name":"Iluminaci\u00f3n para el Hogar",
+        "is_subcategory":true,
+        "father_cat":"MLA1574"
+    },
+    {
+        "id":"MLA1621",
+        "name":"Jardin y Aire Libre",
+        "is_subcategory":true,
+        "father_cat":"MLA1574"
+    },
+    {
+        "id":"MLA436380",
+        "name":"Muebles para el Hogar",
+        "is_subcategory":true,
+        "father_cat":"MLA1574"
+    },
+    {
+        "id":"MLA436414",
+        "name":"Organizaci\u00f3n para el Hogar",
+        "is_subcategory":true,
+        "father_cat":"MLA1574"
+    },
+    {
+        "id":"MLA4624",
+        "name":"Seguridad para el Hogar",
+        "is_subcategory":true,
+        "father_cat":"MLA1574"
+    },
+    {
+        "id":"MLA436246",
+        "name":"Textiles de Hogar y Decoraci\u00f3n",
+        "is_subcategory":true,
+        "father_cat":"MLA1574"
+    },
+    {
+        "id":"MLA1902",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA1574"
+    },
+    {
+        "id":"MLA1499",
+        "name":"Industrias y Oficinas",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA5284",
+        "name":"Arquitectura y Dise\u00f1o",
+        "is_subcategory":true,
+        "father_cat":"MLA1499"
+    },
+    {
+        "id":"MLA48904",
+        "name":"Embalaje y Log\u00edstica",
+        "is_subcategory":true,
+        "father_cat":"MLA1499"
+    },
+    {
+        "id":"MLA454798",
+        "name":"Equipamiento M\u00e9dico",
+        "is_subcategory":true,
+        "father_cat":"MLA1499"
+    },
+    {
+        "id":"MLA5343",
+        "name":"Equipamiento para Comercios",
+        "is_subcategory":true,
+        "father_cat":"MLA1499"
+    },
+    {
+        "id":"MLA2102",
+        "name":"Equipamiento para Oficinas",
+        "is_subcategory":true,
+        "father_cat":"MLA1499"
+    },
+    {
+        "id":"MLA5182",
+        "name":"Gastronom\u00eda y Hoteler\u00eda",
+        "is_subcategory":true,
+        "father_cat":"MLA1499"
+    },
+    {
+        "id":"MLA412676",
+        "name":"Gr\u00e1fica e Impresi\u00f3n",
+        "is_subcategory":true,
+        "father_cat":"MLA1499"
+    },
+    {
+        "id":"MLA454785",
+        "name":"Herramientas Industriales",
+        "is_subcategory":true,
+        "father_cat":"MLA1499"
+    },
+    {
+        "id":"MLA5174",
+        "name":"Publicidad y Promoci\u00f3n",
+        "is_subcategory":true,
+        "father_cat":"MLA1499"
+    },
+    {
+        "id":"MLA5169",
+        "name":"Seguridad Laboral",
+        "is_subcategory":true,
+        "father_cat":"MLA1499"
+    },
+    {
+        "id":"MLA5160",
+        "name":"Textil y Calzado",
+        "is_subcategory":true,
+        "father_cat":"MLA1499"
+    },
+    {
+        "id":"MLA12555",
+        "name":"Uniformes y Ropa de Trabajo",
+        "is_subcategory":true,
+        "father_cat":"MLA1499"
+    },
+    {
+        "id":"MLA1893",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA1499"
+    },
+    {
+        "id":"MLA1459",
+        "name":"Inmuebles",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA374730",
+        "name":"Camas N\u00e1uticas",
+        "is_subcategory":true,
+        "father_cat":"MLA1459"
+    },
+    {
+        "id":"MLA1496",
+        "name":"Campos",
+        "is_subcategory":true,
+        "father_cat":"MLA1459"
+    },
+    {
+        "id":"MLA1466",
+        "name":"Casas",
+        "is_subcategory":true,
+        "father_cat":"MLA1459"
+    },
+    {
+        "id":"MLA50541",
+        "name":"Cocheras",
+        "is_subcategory":true,
+        "father_cat":"MLA1459"
+    },
+    {
+        "id":"MLA392265",
+        "name":"Consultorios",
+        "is_subcategory":true,
+        "father_cat":"MLA1459"
+    },
+    {
+        "id":"MLA1472",
+        "name":"Departamentos",
+        "is_subcategory":true,
+        "father_cat":"MLA1459"
+    },
+    {
+        "id":"MLA1475",
+        "name":"Dep\u00f3sitos y Galpones",
+        "is_subcategory":true,
+        "father_cat":"MLA1459"
+    },
+    {
+        "id":"MLA50545",
+        "name":"Fondo de Comercio",
+        "is_subcategory":true,
+        "father_cat":"MLA1459"
+    },
+    {
+        "id":"MLA79242",
+        "name":"Locales",
+        "is_subcategory":true,
+        "father_cat":"MLA1459"
+    },
+    {
+        "id":"MLA50538",
+        "name":"Oficinas",
+        "is_subcategory":true,
+        "father_cat":"MLA1459"
+    },
+    {
+        "id":"MLA1892",
+        "name":"Otros Inmuebles",
+        "is_subcategory":true,
+        "father_cat":"MLA1459"
+    },
+    {
+        "id":"MLA105179",
+        "name":"PH",
+        "is_subcategory":true,
+        "father_cat":"MLA1459"
+    },
+    {
+        "id":"MLA50544",
+        "name":"Parcelas, Nichos y B\u00f3vedas",
+        "is_subcategory":true,
+        "father_cat":"MLA1459"
+    },
+    {
+        "id":"MLA50547",
+        "name":"Quintas",
+        "is_subcategory":true,
+        "father_cat":"MLA1459"
+    },
+    {
+        "id":"MLA1493",
+        "name":"Terrenos y Lotes",
+        "is_subcategory":true,
+        "father_cat":"MLA1459"
+    },
+    {
+        "id":"MLA50536",
+        "name":"Tiempo Compartido",
+        "is_subcategory":true,
+        "father_cat":"MLA1459"
+    },
+    {
+        "id":"MLA1182",
+        "name":"Instrumentos Musicales",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA3024",
+        "name":"Bater\u00edas y Percusi\u00f3n",
+        "is_subcategory":true,
+        "father_cat":"MLA1182"
+    },
+    {
+        "id":"MLA435173",
+        "name":"Equipos de DJ y Accesorios",
+        "is_subcategory":true,
+        "father_cat":"MLA1182"
+    },
+    {
+        "id":"MLA434917",
+        "name":"Estudio de Grabaci\u00f3n",
+        "is_subcategory":true,
+        "father_cat":"MLA1182"
+    },
+    {
+        "id":"MLA4611",
+        "name":"Instrumentos de Cuerdas",
+        "is_subcategory":true,
+        "father_cat":"MLA1182"
+    },
+    {
+        "id":"MLA3005",
+        "name":"Instrumentos de Viento",
+        "is_subcategory":true,
+        "father_cat":"MLA1182"
+    },
+    {
+        "id":"MLA434818",
+        "name":"Metr\u00f3nomos",
+        "is_subcategory":true,
+        "father_cat":"MLA1182"
+    },
+    {
+        "id":"MLA434816",
+        "name":"Micr\u00f3fonos y Amplificadores",
+        "is_subcategory":true,
+        "father_cat":"MLA1182"
+    },
+    {
+        "id":"MLA434927",
+        "name":"Parlantes y Bafles",
+        "is_subcategory":true,
+        "father_cat":"MLA1182"
+    },
+    {
+        "id":"MLA3360",
+        "name":"Partituras y Letras",
+        "is_subcategory":true,
+        "father_cat":"MLA1182"
+    },
+    {
+        "id":"MLA434786",
+        "name":"Pedales y Accesorios",
+        "is_subcategory":true,
+        "father_cat":"MLA1182"
+    },
+    {
+        "id":"MLA2100",
+        "name":"Teclados y Pianos",
+        "is_subcategory":true,
+        "father_cat":"MLA1182"
+    },
+    {
+        "id":"MLA3014",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA1182"
+    },
+    {
+        "id":"MLA3937",
+        "name":"Joyas y Relojes",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA431676",
+        "name":"Exhibidores y Joyeros",
+        "is_subcategory":true,
+        "father_cat":"MLA3937"
+    },
+    {
+        "id":"MLA404419",
+        "name":"Insumos para Joyer\u00eda",
+        "is_subcategory":true,
+        "father_cat":"MLA3937"
+    },
+    {
+        "id":"MLA1431",
+        "name":"Joyas y Bijouterie",
+        "is_subcategory":true,
+        "father_cat":"MLA3937"
+    },
+    {
+        "id":"MLA431678",
+        "name":"Piedras Preciosas",
+        "is_subcategory":true,
+        "father_cat":"MLA3937"
+    },
+    {
+        "id":"MLA437168",
+        "name":"Piercings",
+        "is_subcategory":true,
+        "father_cat":"MLA3937"
+    },
+    {
+        "id":"MLA431891",
+        "name":"Plumas y Lapiceras de Lujo",
+        "is_subcategory":true,
+        "father_cat":"MLA3937"
+    },
+    {
+        "id":"MLA431677",
+        "name":"Relojes",
+        "is_subcategory":true,
+        "father_cat":"MLA3937"
+    },
+    {
+        "id":"MLA417301",
+        "name":"Repuestos para Relojes",
+        "is_subcategory":true,
+        "father_cat":"MLA3937"
+    },
+    {
+        "id":"MLA3938",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA3937"
+    },
+    {
+        "id":"MLA1132",
+        "name":"Juegos y Juguetes",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA352344",
+        "name":"Armas y Lanzadores de Juguete",
+        "is_subcategory":true,
+        "father_cat":"MLA1132"
+    },
+    {
+        "id":"MLA418284",
+        "name":"Arte y Manualidades",
+        "is_subcategory":true,
+        "father_cat":"MLA1132"
+    },
+    {
+        "id":"MLA433060",
+        "name":"Casas y Carpas para Ni\u00f1os",
+        "is_subcategory":true,
+        "father_cat":"MLA1132"
+    },
+    {
+        "id":"MLA2967",
+        "name":"Electr\u00f3nicos para Ni\u00f1os",
+        "is_subcategory":true,
+        "father_cat":"MLA1132"
+    },
+    {
+        "id":"MLA1831",
+        "name":"Figuritas, \u00c1lbumes y Cromos",
+        "is_subcategory":true,
+        "father_cat":"MLA1132"
+    },
+    {
+        "id":"MLA432873",
+        "name":"Hobbies",
+        "is_subcategory":true,
+        "father_cat":"MLA1132"
+    },
+    {
+        "id":"MLA11229",
+        "name":"Instrumentos Musicales",
+        "is_subcategory":true,
+        "father_cat":"MLA1132"
+    },
+    {
+        "id":"MLA433069",
+        "name":"Juegos de Agua y Playa",
+        "is_subcategory":true,
+        "father_cat":"MLA1132"
+    },
+    {
+        "id":"MLA432988",
+        "name":"Juegos de Mesa y Cartas",
+        "is_subcategory":true,
+        "father_cat":"MLA1132"
+    },
+    {
+        "id":"MLA1167",
+        "name":"Juegos de Plaza y Aire Libre",
+        "is_subcategory":true,
+        "father_cat":"MLA1132"
+    },
+    {
+        "id":"MLA4696",
+        "name":"Juegos de Sal\u00f3n",
+        "is_subcategory":true,
+        "father_cat":"MLA1132"
+    },
+    {
+        "id":"MLA432991",
+        "name":"Juguetes Antiestr\u00e9s e Ingenio",
+        "is_subcategory":true,
+        "father_cat":"MLA1132"
+    },
+    {
+        "id":"MLA416865",
+        "name":"Juguetes de Bromas",
+        "is_subcategory":true,
+        "father_cat":"MLA1132"
+    },
+    {
+        "id":"MLA455425",
+        "name":"Juguetes de Construcci\u00f3n",
+        "is_subcategory":true,
+        "father_cat":"MLA1132"
+    },
+    {
+        "id":"MLA432818",
+        "name":"Juguetes de Oficios",
+        "is_subcategory":true,
+        "father_cat":"MLA1132"
+    },
+    {
+        "id":"MLA3655",
+        "name":"Juguetes para Beb\u00e9s",
+        "is_subcategory":true,
+        "father_cat":"MLA1132"
+    },
+    {
+        "id":"MLA37615",
+        "name":"Mesas y Sillas para Ni\u00f1os",
+        "is_subcategory":true,
+        "father_cat":"MLA1132"
+    },
+    {
+        "id":"MLA432888",
+        "name":"Mu\u00f1ecos y Mu\u00f1ecas",
+        "is_subcategory":true,
+        "father_cat":"MLA1132"
+    },
+    {
+        "id":"MLA12087",
+        "name":"Patines y Patinetas",
+        "is_subcategory":true,
+        "father_cat":"MLA1132"
+    },
+    {
+        "id":"MLA6558",
+        "name":"Peloteros y Castillos",
+        "is_subcategory":true,
+        "father_cat":"MLA1132"
+    },
+    {
+        "id":"MLA1166",
+        "name":"Peluches",
+        "is_subcategory":true,
+        "father_cat":"MLA1132"
+    },
+    {
+        "id":"MLA433047",
+        "name":"T\u00edteres y Marionetas",
+        "is_subcategory":true,
+        "father_cat":"MLA1132"
+    },
+    {
+        "id":"MLA6151",
+        "name":"Veh\u00edculos Montables para Ni\u00f1os",
+        "is_subcategory":true,
+        "father_cat":"MLA1132"
+    },
+    {
+        "id":"MLA432871",
+        "name":"Veh\u00edculos de Juguete",
+        "is_subcategory":true,
+        "father_cat":"MLA1132"
+    },
+    {
+        "id":"MLA1910",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA1132"
+    },
+    {
+        "id":"MLA3025",
+        "name":"Libros, Revistas y Comics",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA433385",
+        "name":"Cat\u00e1logos",
+        "is_subcategory":true,
+        "father_cat":"MLA3025"
+    },
+    {
+        "id":"MLA455868",
+        "name":"Ebooks",
+        "is_subcategory":true,
+        "father_cat":"MLA3025"
+    },
+    {
+        "id":"MLA412445",
+        "name":"Libros F\u00edsicos",
+        "is_subcategory":true,
+        "father_cat":"MLA3025"
+    },
+    {
+        "id":"MLA1955",
+        "name":"Revistas",
+        "is_subcategory":true,
+        "father_cat":"MLA3025"
+    },
+    {
+        "id":"MLA1227",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA3025"
+    },
+    {
+        "id":"MLA1168",
+        "name":"M\u00fasica, Pel\u00edculas y Series",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA456481",
+        "name":"Contenido Deportivo",
+        "is_subcategory":true,
+        "father_cat":"MLA1168"
+    },
+    {
+        "id":"MLA445795",
+        "name":"Cursos",
+        "is_subcategory":true,
+        "father_cat":"MLA1168"
+    },
+    {
+        "id":"MLA1174",
+        "name":"M\u00fasica",
+        "is_subcategory":true,
+        "father_cat":"MLA1168"
+    },
+    {
+        "id":"MLA456083",
+        "name":"Peliculas Online",
+        "is_subcategory":true,
+        "father_cat":"MLA1168"
+    },
+    {
+        "id":"MLA13508",
+        "name":"Pel\u00edculas F\u00edsicas",
+        "is_subcategory":true,
+        "father_cat":"MLA1168"
+    },
+    {
+        "id":"MLA7841",
+        "name":"Series de TV",
+        "is_subcategory":true,
+        "father_cat":"MLA1168"
+    },
+    {
+        "id":"MLA456084",
+        "name":"Series y Tv Shows Online",
+        "is_subcategory":true,
+        "father_cat":"MLA1168"
+    },
+    {
+        "id":"MLA456272",
+        "name":"Videos de Recetas y DIY",
+        "is_subcategory":true,
+        "father_cat":"MLA1168"
+    },
+    {
+        "id":"MLA1228",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA1168"
+    },
+    {
+        "id":"MLA1430",
+        "name":"Ropa y Accesorios",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA455528",
+        "name":"Abrigos",
+        "is_subcategory":true,
+        "father_cat":"MLA1430"
+    },
+    {
+        "id":"MLA3114",
+        "name":"Accesorios de Moda",
+        "is_subcategory":true,
+        "father_cat":"MLA1430"
+    },
+    {
+        "id":"MLA109276",
+        "name":"Bermudas y Shorts",
+        "is_subcategory":true,
+        "father_cat":"MLA1430"
+    },
+    {
+        "id":"MLA417226",
+        "name":"Blusas",
+        "is_subcategory":true,
+        "father_cat":"MLA1430"
+    },
+    {
+        "id":"MLA109026",
+        "name":"Calzado",
+        "is_subcategory":true,
+        "father_cat":"MLA1430"
+    },
+    {
+        "id":"MLA95955",
+        "name":"Calzas",
+        "is_subcategory":true,
+        "father_cat":"MLA1430"
+    },
+    {
+        "id":"MLA417218",
+        "name":"Camisas",
+        "is_subcategory":true,
+        "father_cat":"MLA1430"
+    },
+    {
+        "id":"MLA109254",
+        "name":"Enteritos",
+        "is_subcategory":true,
+        "father_cat":"MLA1430"
+    },
+    {
+        "id":"MLA110761",
+        "name":"Equipaje, Bolsos y Carteras",
+        "is_subcategory":true,
+        "father_cat":"MLA1430"
+    },
+    {
+        "id":"MLA12554",
+        "name":"Indumentaria Laboral y Escolar",
+        "is_subcategory":true,
+        "father_cat":"MLA1430"
+    },
+    {
+        "id":"MLA455550",
+        "name":"Kimonos",
+        "is_subcategory":true,
+        "father_cat":"MLA1430"
+    },
+    {
+        "id":"MLA413460",
+        "name":"Lotes de Ropa",
+        "is_subcategory":true,
+        "father_cat":"MLA1430"
+    },
+    {
+        "id":"MLA109282",
+        "name":"Pantalones",
+        "is_subcategory":true,
+        "father_cat":"MLA1430"
+    },
+    {
+        "id":"MLA373771",
+        "name":"Polleras",
+        "is_subcategory":true,
+        "father_cat":"MLA1430"
+    },
+    {
+        "id":"MLA109042",
+        "name":"Remeras, Musculosas y Chombas",
+        "is_subcategory":true,
+        "father_cat":"MLA1430"
+    },
+    {
+        "id":"MLA6839",
+        "name":"Ropa Deportiva",
+        "is_subcategory":true,
+        "father_cat":"MLA1430"
+    },
+    {
+        "id":"MLA109278",
+        "name":"Ropa Interior y de Dormir",
+        "is_subcategory":true,
+        "father_cat":"MLA1430"
+    },
+    {
+        "id":"MLA1455",
+        "name":"Ropa y Calzado para Beb\u00e9s",
+        "is_subcategory":true,
+        "father_cat":"MLA1430"
+    },
+    {
+        "id":"MLA109089",
+        "name":"Trajes",
+        "is_subcategory":true,
+        "father_cat":"MLA1430"
+    },
+    {
+        "id":"MLA430281",
+        "name":"Trajes de Ba\u00f1o",
+        "is_subcategory":true,
+        "father_cat":"MLA1430"
+    },
+    {
+        "id":"MLA373770",
+        "name":"Vestidos",
+        "is_subcategory":true,
+        "father_cat":"MLA1430"
+    },
+    {
+        "id":"MLA1911",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA1430"
+    },
+    {
+        "id":"MLA409431",
+        "name":"Salud y Equipamiento M\u00e9dico",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA5395",
+        "name":"Cuidado de la Salud",
+        "is_subcategory":true,
+        "father_cat":"MLA409431"
+    },
+    {
+        "id":"MLA6556",
+        "name":"Equipamiento M\u00e9dico",
+        "is_subcategory":true,
+        "father_cat":"MLA409431"
+    },
+    {
+        "id":"MLA29912",
+        "name":"Masajes",
+        "is_subcategory":true,
+        "father_cat":"MLA409431"
+    },
+    {
+        "id":"MLA435066",
+        "name":"Movilidad",
+        "is_subcategory":true,
+        "father_cat":"MLA409431"
+    },
+    {
+        "id":"MLA401562",
+        "name":"Ortopedia",
+        "is_subcategory":true,
+        "father_cat":"MLA409431"
+    },
+    {
+        "id":"MLA8830",
+        "name":"Suplementos Alimenticios",
+        "is_subcategory":true,
+        "father_cat":"MLA409431"
+    },
+    {
+        "id":"MLA43719",
+        "name":"Terapias Alternativas",
+        "is_subcategory":true,
+        "father_cat":"MLA409431"
+    },
+    {
+        "id":"MLA409463",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA409431"
+    },
+    {
+        "id":"MLA1540",
+        "name":"Servicios",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA414050",
+        "name":"Asesoramiento Contable y Legal",
+        "is_subcategory":true,
+        "father_cat":"MLA1540"
+    },
+    {
+        "id":"MLA10514",
+        "name":"Belleza y Cuidado Personal",
+        "is_subcategory":true,
+        "father_cat":"MLA1540"
+    },
+    {
+        "id":"MLA414051",
+        "name":"Comunicaci\u00f3n y dise\u00f1o",
+        "is_subcategory":true,
+        "father_cat":"MLA1540"
+    },
+    {
+        "id":"MLA43986",
+        "name":"Cursos y Clases",
+        "is_subcategory":true,
+        "father_cat":"MLA1540"
+    },
+    {
+        "id":"MLA91058",
+        "name":"Delivery",
+        "is_subcategory":true,
+        "father_cat":"MLA1540"
+    },
+    {
+        "id":"MLA1550",
+        "name":"Fiestas y Eventos",
+        "is_subcategory":true,
+        "father_cat":"MLA1540"
+    },
+    {
+        "id":"MLA122264",
+        "name":"Fotograf\u00eda, M\u00fasica y Cine",
+        "is_subcategory":true,
+        "father_cat":"MLA1540"
+    },
+    {
+        "id":"MLA122258",
+        "name":"Hogar y Construcci\u00f3n",
+        "is_subcategory":true,
+        "father_cat":"MLA1540"
+    },
+    {
+        "id":"MLA56666",
+        "name":"Imprenta",
+        "is_subcategory":true,
+        "father_cat":"MLA1540"
+    },
+    {
+        "id":"MLA9007",
+        "name":"Mantenimiento de Veh\u00edculos",
+        "is_subcategory":true,
+        "father_cat":"MLA1540"
+    },
+    {
+        "id":"MLA111029",
+        "name":"Medicina y Salud",
+        "is_subcategory":true,
+        "father_cat":"MLA1540"
+    },
+    {
+        "id":"MLA1898",
+        "name":"Otros Servicios",
+        "is_subcategory":true,
+        "father_cat":"MLA1540"
+    },
+    {
+        "id":"MLA91088",
+        "name":"Ropa y Moda",
+        "is_subcategory":true,
+        "father_cat":"MLA1540"
+    },
+    {
+        "id":"MLA11798",
+        "name":"Servicios para Mascotas",
+        "is_subcategory":true,
+        "father_cat":"MLA1540"
+    },
+    {
+        "id":"MLA91083",
+        "name":"Servicios para Oficinas",
+        "is_subcategory":true,
+        "father_cat":"MLA1540"
+    },
+    {
+        "id":"MLA122201",
+        "name":"Tecnolog\u00eda",
+        "is_subcategory":true,
+        "father_cat":"MLA1540"
+    },
+    {
+        "id":"MLA9038",
+        "name":"Transporte",
+        "is_subcategory":true,
+        "father_cat":"MLA1540"
+    },
+    {
+        "id":"MLA1229",
+        "name":"Viajes y Turismo",
+        "is_subcategory":true,
+        "father_cat":"MLA1540"
+    },
+    {
+        "id":"MLA9304",
+        "name":"Souvenirs, Cotill\u00f3n y Fiestas",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA455857",
+        "name":"Accesorios para Cosplay",
+        "is_subcategory":true,
+        "father_cat":"MLA9304"
+    },
+    {
+        "id":"MLA24673",
+        "name":"Cotill\u00f3n",
+        "is_subcategory":true,
+        "father_cat":"MLA9304"
+    },
+    {
+        "id":"MLA403648",
+        "name":"Decoraci\u00f3n para Fiestas",
+        "is_subcategory":true,
+        "father_cat":"MLA9304"
+    },
+    {
+        "id":"MLA413646",
+        "name":"Descartables para Fiestas",
+        "is_subcategory":true,
+        "father_cat":"MLA9304"
+    },
+    {
+        "id":"MLA24790",
+        "name":"Disfraces",
+        "is_subcategory":true,
+        "father_cat":"MLA9304"
+    },
+    {
+        "id":"MLA435284",
+        "name":"Espuma, Serpentina y Confeti",
+        "is_subcategory":true,
+        "father_cat":"MLA9304"
+    },
+    {
+        "id":"MLA412184",
+        "name":"Invitaciones y Tarjetas",
+        "is_subcategory":true,
+        "father_cat":"MLA9304"
+    },
+    {
+        "id":"MLA100778",
+        "name":"Kits Imprimibles para Fiestas",
+        "is_subcategory":true,
+        "father_cat":"MLA9304"
+    },
+    {
+        "id":"MLA412009",
+        "name":"Props para Photo Booths",
+        "is_subcategory":true,
+        "father_cat":"MLA9304"
+    },
+    {
+        "id":"MLA10056",
+        "name":"Souvenirs",
+        "is_subcategory":true,
+        "father_cat":"MLA9304"
+    },
+    {
+        "id":"MLA24693",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA9304"
+    },
+    {
+        "id":"MLA1953",
+        "name":"Otras categor\u00edas",
+        "is_subcategory":false,
+        "father_cat":null
+    },
+    {
+        "id":"MLA2818",
+        "name":"Adultos",
+        "is_subcategory":true,
+        "father_cat":"MLA1953"
+    },
+    {
+        "id":"MLA2335",
+        "name":"Art\u00edculos para Fumadores",
+        "is_subcategory":true,
+        "father_cat":"MLA1953"
+    },
+    {
+        "id":"MLA406028",
+        "name":"Coberturas Extendidas",
+        "is_subcategory":true,
+        "father_cat":"MLA1953"
+    },
+    {
+        "id":"MLA417785",
+        "name":"Criptomonedas",
+        "is_subcategory":true,
+        "father_cat":"MLA1953"
+    },
+    {
+        "id":"MLA1740",
+        "name":"Esoterismo",
+        "is_subcategory":true,
+        "father_cat":"MLA1953"
+    },
+    {
+        "id":"MLA456579",
+        "name":"Garex",
+        "is_subcategory":true,
+        "father_cat":"MLA1953"
+    },
+    {
+        "id":"MLA401316",
+        "name":"Gift Cards",
+        "is_subcategory":true,
+        "father_cat":"MLA1953"
+    },
+    {
+        "id":"MLA432903",
+        "name":"Hornos Crematorios",
+        "is_subcategory":true,
+        "father_cat":"MLA1953"
+    },
+    {
+        "id":"MLA73672",
+        "name":"Insumos para Tatuajes",
+        "is_subcategory":true,
+        "father_cat":"MLA1953"
+    },
+    {
+        "id":"MLA433536",
+        "name":"Kits de Criminal\u00edstica",
+        "is_subcategory":true,
+        "father_cat":"MLA1953"
+    },
+    {
+        "id":"MLA433022",
+        "name":"Licencias para Taxis",
+        "is_subcategory":true,
+        "father_cat":"MLA1953"
+    },
+    {
+        "id":"MLA413190",
+        "name":"Mangas de Viento",
+        "is_subcategory":true,
+        "father_cat":"MLA1953"
+    },
+    {
+        "id":"MLA456728",
+        "name":"Propina",
+        "is_subcategory":true,
+        "father_cat":"MLA1953"
+    },
+    {
+        "id":"MLA456578",
+        "name":"Roda",
+        "is_subcategory":true,
+        "father_cat":"MLA1953"
+    },
+    {
+        "id":"MLA455033",
+        "name":"\u00c1cido Clorh\u00eddrico",
+        "is_subcategory":true,
+        "father_cat":"MLA1953"
+    },
+    {
+        "id":"MLA3530",
+        "name":"Otros",
+        "is_subcategory":true,
+        "father_cat":"MLA1953"
+    }
+]
