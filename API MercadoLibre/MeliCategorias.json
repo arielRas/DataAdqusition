@@ -48,6 +48,12 @@
         "father_cat":"MLA5725"
     },
     {
+        "id":"MLA457400",
+        "name":"Instalaciones de neum\u00e1ticos",
+        "is_subcategory":true,
+        "father_cat":"MLA5725"
+    },
+    {
         "id":"MLA86838",
         "name":"Limpieza de Veh\u00edculos",
         "is_subcategory":true,
@@ -2592,8 +2598,8 @@
         "father_cat":null
     },
     {
-        "id":"MLA455857",
-        "name":"Accesorios para Cosplay",
+        "id":"MLA457488",
+        "name":"Cajas para Invitaciones",
         "is_subcategory":true,
         "father_cat":"MLA9304"
     },
@@ -2616,8 +2622,14 @@
         "father_cat":"MLA9304"
     },
     {
-        "id":"MLA24790",
-        "name":"Disfraces",
+        "id":"MLA455857",
+        "name":"Disfraces y Cosplay",
+        "is_subcategory":true,
+        "father_cat":"MLA9304"
+    },
+    {
+        "id":"MLA457417",
+        "name":"Equipamiento para Fiestas",
         "is_subcategory":true,
         "father_cat":"MLA9304"
     },
